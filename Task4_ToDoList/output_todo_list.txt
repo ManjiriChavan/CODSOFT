@@ -1,0 +1,84 @@
+
+==== TO-DO LIST MENU ====
+1. Add Task
+2. View Tasks
+3. Mark Task as Completed
+4. Remove Task
+5. Exit
+Choose an option: 1
+Enter task description: Complete C++ assignment
+Task added successfully!
+
+==== TO-DO LIST MENU ====
+1. Add Task
+2. View Tasks
+3. Mark Task as Completed
+4. Remove Task
+5. Exit
+Choose an option: 1
+Enter task description: Study for interview
+Task added successfully!
+
+==== TO-DO LIST MENU ====
+1. Add Task
+2. View Tasks
+3. Mark Task as Completed
+4. Remove Task
+5. Exit
+Choose an option: 2
+
+--- TASK LIST ---
+1. Complete C++ assignment [Pending]
+2. Study for interview [Pending]
+
+==== TO-DO LIST MENU ====
+1. Add Task
+2. View Tasks
+3. Mark Task as Completed
+4. Remove Task
+5. Exit
+Choose an option: 3
+Enter task number to mark as completed: 1
+Task marked as completed!
+
+==== TO-DO LIST MENU ====
+1. Add Task
+2. View Tasks
+3. Mark Task as Completed
+4. Remove Task
+5. Exit
+Choose an option: 2
+
+--- TASK LIST ---
+1. Complete C++ assignment [Completed]
+2. Study for interview [Pending]
+
+==== TO-DO LIST MENU ====
+1. Add Task
+2. View Tasks
+3. Mark Task as Completed
+4. Remove Task
+5. Exit
+Choose an option: 4
+Enter task number to remove: 2
+Task removed!
+
+==== TO-DO LIST MENU ====
+1. Add Task
+2. View Tasks
+3. Mark Task as Completed
+4. Remove Task
+5. Exit
+Choose an option: 2
+
+--- TASK LIST ---
+1. Complete C++ assignment [Completed]
+
+==== TO-DO LIST MENU ====
+1. Add Task
+2. View Tasks
+3. Mark Task as Completed
+4. Remove Task
+5. Exit
+Choose an option: 5
+Exiting... Thank you!
