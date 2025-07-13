@@ -1,0 +1,24 @@
+
+===== SIMPLE CALCULATOR =====
+
+Enter first number: 12
+Enter an operator (+, -, *, /): +
+Enter second number: 5
+Result: 17
+
+Do you want to perform another calculation? (y/n): y
+
+Enter first number: 10
+Enter an operator (+, -, *, /): /
+Enter second number: 0
+Error: Division by zero!
+
+Do you want to perform another calculation? (y/n): y
+
+Enter first number: 7
+Enter an operator (+, -, *, /): *
+Enter second number: 6
+Result: 42
+
+Do you want to perform another calculation? (y/n): n
+Thank you for using the calculator!
